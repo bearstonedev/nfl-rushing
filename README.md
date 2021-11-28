@@ -63,4 +63,17 @@ If you have any questions regarding requirements, do not hesitate to email your 
 
 ## Installation and running this solution
 
-... TODO
+### Steps
+
+1. Clone the repo.
+1. Run `npm install` from the `nfl-rushing-frontend` directory to install the web app.
+1. Run `ng test` to run unit tests.
+1. Run `ng serve` to serve the application.
+
+### Front-end dependencies
+
+* [Angular](https://angular.io) single-page application framework
+* [ngrx](https://ngrx.io/) reactive RxJs state management framework
+* [TypeScript](https://www.typescriptlang.org/) syntax & transpilation
+* [ESLint](https://eslint.org/) Typescript linter
+* [Jasmine](https://jasmine.github.io/) test library and [karma](https://www.npmjs.com/package/karma) test runner
