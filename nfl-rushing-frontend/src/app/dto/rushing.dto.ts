@@ -8,10 +8,7 @@ export interface RushingStatsDto {
     YardsPerAttemptAvg: number;
     YardsPerGame: number;
     TouchdownsTotal: number;
-    LongestRush: {
-        Yards: number;
-        IsTouchdown: boolean;
-    };
+    LongestRush: string;
     FirstDowns: number;
     FirstDownPercentage: number;
     TwentyPlus: number;
