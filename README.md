@@ -73,7 +73,6 @@ If you have any questions regarding requirements, do not hesitate to email your 
 ### Front-end dependencies
 
 * [Angular](https://angular.io) single-page application framework
-* [ngrx](https://ngrx.io/) reactive RxJs state management framework
 * [TypeScript](https://www.typescriptlang.org/) syntax & transpilation
 * [ESLint](https://eslint.org/) Typescript linter
 * [Jasmine](https://jasmine.github.io/) test library and [karma](https://www.npmjs.com/package/karma) test runner
